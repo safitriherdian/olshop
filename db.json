@@ -1,0 +1,26 @@
+{
+"toko" : 
+[ 
+  {
+  "nama": "OLSHOP BABY",
+      "owner": "JOKO",
+      "produk": "DIAPERS",
+      "stok": "12",
+      "harga": "Rp 15.000,00"
+    },
+    {
+      "nama": "OLSHOP STATIONERY",
+      "owner": "ANWAR",
+      "produk": "STICKY NOTES",
+      "stok": "99",
+      "harga": "Rp 9.000,00"
+    },
+    {
+      "nama": "OLSHOP FURNITURE",
+      "owner": "DIAN",
+      "produk": "SOFA",
+      "stok": "12",
+      "harga": "Rp 7.599.000,00"
+    }
+  ]
+  }
